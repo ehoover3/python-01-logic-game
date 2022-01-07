@@ -1,4 +1,4 @@
-"""Game where user guesses a number based on clues."""
+"""A logic game where user guesses a number based on clues."""
 
 import random
 
